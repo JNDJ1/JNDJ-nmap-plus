@@ -3,4 +3,3 @@
 #注意点是对于python中的scapy库的安装:
 pip install scapy
 或者在github中的scapy-master.zip文件进行解压引用
-(为了防止没有python,在我的文件夹中含有python安装包)
